@@ -11,6 +11,7 @@ typedef struct
     int finish;
 } ACTIVITY;
 
+//zadatak
 void printActivity(ACTIVITY);
 void randomActivities(ACTIVITY[], int);
 int comp(const void *, const void *);
