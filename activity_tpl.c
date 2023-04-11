@@ -53,7 +53,7 @@ void printMaxActivities(ACTIVITY a[], int n)
 
     // TODO : select and print activities
 }
-
+//SUDBINA
 void randomActivities(ACTIVITY a[], int n)
 {
     int i;
